@@ -1,14 +1,13 @@
-# Day 1 - 2024 - Community Edition - Introduction
+# วันแรก - 2024 - Community Edition - Introduction
 [![Watch the video](thumbnails/day1.png)](https://www.youtube.com/watch?v=W7txKrH06gc)
 
- In summary, the speaker is discussing a project they worked on for 90 days, focusing on DevOps and infrastructure as code. They highlight tools like Terraform, Ansible, Jenkins, Argo CD, GitHub Actions, and observability tools like Grafana, Elk Stack, Prometheus, etc. The project also covered data storage, protection, and cybersecurity threats such as ransomware. It consisted of 13 topics covered in blog posts totaling 110,000 words and has received over 20,000 stars on GitHub.
+โดยสรุป ผู้บรรยายพูดคุยเกี่ยวกับโครงการที่พวกเขาทำเป็นเวลา 90 วัน โดยเน้นที่ DevOps และ Infrastructure as Code (IaC) โดยเน้นเครื่องมือต่างๆ เช่น Terraform, Ansible, Jenkins, Argo CD, GitHub Actions และเครื่องมือ Observability เช่น Grafana, ELK Stack, Prometheus เป็นต้น Project นี้ยังครอบคลุมถึงการจัดเก็บข้อมูล การป้องกัน และภัยคุกคามความปลอดภัยทาง Cyber เช่น Ransomware ประกอบด้วย 13 หัวข้อที่ครอบคลุมใน Blog Post รวม 110,000 คำ และได้รับดาวมากกว่า 20,000 ดาวบน GitHub
 
-The project's website is at 90daysofdevops.com where you can access the content from each edition (2022, 2023, and the upcoming 2024 Community Edition). The 2024 edition promises to have at least 90 unique sessions from diverse speakers covering a wide range of topics. They encourage viewers to ask questions on Discord or social media if they want to learn more. Videos will be released daily for ongoing engagement and learning.
-
+Edition นี้จะมี Session ที่ไม่ซ้ำกันอย่างน้อย 90 Session จากวิทยากรที่หลากหลายซึ่งครอบคลุมหัวข้อต่างๆ มากมาย พวกเขาสนับสนุนให้ผู้ชมถามคำถามบน Discord หรือ Social Media หากต้องการเรียนรู้เพิ่มเติม
 
 **IDENTITY:**
 
-The 90 Days of DevOps project aims to provide a comprehensive resource for learning and understanding DevOps concepts, covering 13 topics in total. The project is built upon personal notes and has evolved into a repository with over 22,000 stars on GitHub.
+โครงการ 90 วัน DevOps มีเป้าหมายเพื่อมอบ Resource ที่ครอบคลุมสำหรับการเรียนรู้และทำความเข้าใจแนวคิด DevOps ครอบคลุมทั้งหมด 13 หัวข้อ Project นี้สร้างขึ้นจากบันทึกส่วนตัวและได้พัฒนาไปสู่ Repository ที่มีดาวมากกว่า 22,000 ดวงบน GitHub
 
 **PURPOSE:**
 
